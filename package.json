@@ -1,0 +1,23 @@
+{
+  "name": "js-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moose0621/js-unit-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moose0621/js-unit-test/issues"
+  },
+  "homepage": "https://github.com/Moose0621/js-unit-test#readme"
+}
